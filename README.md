@@ -1,7 +1,5 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Cameron!
 ##  About Me
-Hi, I'm Cameron
-
 I am a college student interested in computer science and game design.
 
 I enjoy video games, movies, and spending time with friends and family._
