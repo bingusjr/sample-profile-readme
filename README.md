@@ -1,6 +1,10 @@
 ## 👏 Hi, I'm *your name here*
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+Hi, I'm Cameron
+
+I am a college student interested in computer science and game design.
+
+I enjoy video games, movies, and spending time with friends and family._
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
